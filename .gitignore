@@ -8,6 +8,9 @@ target/
 *.iws
 *.ipr
 
+# ENV
+.env.*
+
 # Eclipse
 .classpath
 .project
