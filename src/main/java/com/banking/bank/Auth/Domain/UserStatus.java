@@ -1,4 +1,5 @@
 package com.banking.bank.Auth.Domain;
 
-public class UserStatus {
+public enum UserStatus {
+    ACTIVE, LOCKED, DISABLED
 }
